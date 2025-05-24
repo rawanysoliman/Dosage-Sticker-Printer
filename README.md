@@ -47,7 +47,7 @@ A Windows Forms desktop application designed for pharmacies to generate and prin
 
 ## 📷 Screenshots
 
-> _Add screenshots of the main form, sticker preview panel, and print results here_
+
 
 ## ✅ Future Improvements
 
